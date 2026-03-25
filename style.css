@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: url('Background.png') center/cover fixed;
+    background: url('../Background.png') center/cover fixed;
     background-color: #1a1a1a;
     color: #e0e0e0;
     position: relative;
